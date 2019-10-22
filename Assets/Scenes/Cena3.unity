@@ -1018,7 +1018,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78b1dac2dbe760847ab8be14583728f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  circuito: {fileID: 0}
+  circuito: {fileID: 870703406}
   velocidadeDeRotacao: 2
   velocidade: 3.5
   precisao: 1
